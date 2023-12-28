@@ -9,6 +9,7 @@ Dataset for the project is taken from <a href='https://www.kaggle.com/petersunga
 </br>For transfer learning, we are using ULMFIT model which is trained on wiki103 dataset.
 
 # Screenshot
+
 1) Sentiment analysis: Analysing text into five different catagories viz Extremly Positive, Positive, Neutral, Negative and Extremly Negative. 
 ![image (1)](https://user-images.githubusercontent.com/17825243/57292620-dd0bc780-70e1-11e9-8017-0f581d834518.png)
 
