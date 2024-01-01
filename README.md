@@ -5,8 +5,6 @@ This project helps in analysing company employee feedback.Feedback are analysed 
 </br>2) summerizing the employee review based on department, section or choices.
 </br>3) Visualizing overall sentiment flow.
 
-Dataset for the project is taken from <a href='https://www.kaggle.com/petersunga/google-amazon-facebook-employee-reviews'>HERE</a>
-</br>For transfer learning, we are using ULMFIT model which is trained on wiki103 dataset.
 
 ## Screenshot
 
