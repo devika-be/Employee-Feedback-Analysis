@@ -1,4 +1,4 @@
-# Employee-feedback-analysis
+# Employee Feedback Analysis
 
 This project helps in analysing company employee feedback.Feedback are analysed by two approach:
 </br>1) Sentiment analysing according to department, section or choices.
@@ -8,7 +8,7 @@ This project helps in analysing company employee feedback.Feedback are analysed 
 Dataset for the project is taken from <a href='https://www.kaggle.com/petersunga/google-amazon-facebook-employee-reviews'>HERE</a>
 </br>For transfer learning, we are using ULMFIT model which is trained on wiki103 dataset.
 
-# Screenshot
+## Screenshot
 
 1) Sentiment analysis: Analysing text into five different catagories viz Extremly Positive, Positive, Neutral, Negative and Extremly Negative. 
 ![image (1)](https://user-images.githubusercontent.com/17825243/57292620-dd0bc780-70e1-11e9-8017-0f581d834518.png)
