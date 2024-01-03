@@ -5,10 +5,9 @@ This project helps in analysing company employee feedback.Feedback are analysed 
 </br>2) summerizing the employee review based on department, section or choices.
 </br>3) Visualizing overall sentiment flow.
 
-
 ## Screenshot
 
-1) Sentiment analysis: Analysing text into five different catagories viz Extremly Positive, Positive, Neutral, Negative and Extremly Negative. 
+1)Sentiment analysis: Analysing text into five different catagories viz Extremly Positive, Positive, Neutral, Negative and Extremly Negative. 
 ![image (1)](https://user-images.githubusercontent.com/17825243/57292620-dd0bc780-70e1-11e9-8017-0f581d834518.png)
 
 2)Summerizer: Summerizing the review feedack given by employee.
