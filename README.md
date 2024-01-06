@@ -1,6 +1,7 @@
 # Employee Feedback Analysis
 
 This project helps in analysing company employee feedback.Feedback are analysed by two approach:
+
 </br>1) Sentiment analysing according to department, section or choices.
 </br>2) summerizing the employee review based on department, section or choices.
 </br>3) Visualizing overall sentiment flow.
